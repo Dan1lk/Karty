@@ -1,8 +1,7 @@
 from random import shuffle
 
-text = 'dsfssdfsdfsdf'
-def yellow():
-    print('dsf')
+def multi(a, b):
+    return a * b
 
 class Card:
     suits = ['пикей',
