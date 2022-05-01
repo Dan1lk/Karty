@@ -1,5 +1,9 @@
 from random import shuffle
 
+text = 'dsfssdfsdfsdf'
+def yellow():
+    print('dsf')
+
 class Card:
     suits = ['пикей',
              'червей',
