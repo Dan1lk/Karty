@@ -1,8 +1,5 @@
 from random import shuffle
 
-def multi(a, b):
-    return a * b
-
 class Card:
     suits = ['пикей',
              'червей',
